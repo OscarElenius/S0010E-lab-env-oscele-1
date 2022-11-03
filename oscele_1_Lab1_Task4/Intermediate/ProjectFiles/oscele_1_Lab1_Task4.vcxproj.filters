@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\oscele_1_Lab1_Task4.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A2AB8B99-3349-42B8-989E-C96FA28EFB38}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\oscele_1_Lab1_Task4.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\oscele_1_Lab1_Task4Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F723DFA9-1B2B-4740-AA57-5DA96A45FCB3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\oscele_1_Lab1_Task4">
+      <UniqueIdentifier>{DFAC33BC-A53F-44D5-A083-57446B940E30}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\oscele_1_Lab1_Task4\oscele_1_Lab1_Task4.Build.cs">
+      <Filter>Source\oscele_1_Lab1_Task4</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\oscele_1_Lab1_Task4\oscele_1_Lab1_Task4.cpp">
+      <Filter>Source\oscele_1_Lab1_Task4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\oscele_1_Lab1_Task4\oscele_1_Lab1_Task4.h">
+      <Filter>Source\oscele_1_Lab1_Task4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\oscele_1_Lab1_Task4\oscele_1_Lab1_Task4GameModeBase.cpp">
+      <Filter>Source\oscele_1_Lab1_Task4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\oscele_1_Lab1_Task4\oscele_1_Lab1_Task4GameModeBase.h">
+      <Filter>Source\oscele_1_Lab1_Task4</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
