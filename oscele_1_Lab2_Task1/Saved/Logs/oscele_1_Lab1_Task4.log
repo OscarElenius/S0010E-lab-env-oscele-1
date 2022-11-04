@@ -1605,3 +1605,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.11.04-09.06.08:989][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.11.04-09.06.08:993][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
 [2022.11.04-09.06.09:045][ 62]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.11.04-09.12.01:137][423]LogSlate: Took 0.003876 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.11.04-09.12.07:893][802]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.11.04-09.12.33:464][372]Cmd: CLOSE_SLATE_MAINFRAME
+[2022.11.04-09.12.33:468][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.11.04-09.12.39:510][372]LogSlate: Window 'Save Content' being destroyed
+[2022.11.04-09.12.40:658][492]LogSlate: Window 'Open Project' being destroyed
+[2022.11.04-09.12.41:624][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.11.04-09.12.41:634][603]LogSavePackage: Moving '../../../../../../Users/Oscar Elenius/Documents/Unreal Projects/S0010E-lab-env-oscele-1/oscele_1_Lab2_Task1/Saved/Minimal_DefaultF67FAB4B4F296DE8FF9601A99D11DF28.tmp' to '../../../../../../Users/Oscar Elenius/Documents/Unreal Projects/S0010E-lab-env-oscele-1/oscele_1_Lab2_Task1/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.04-09.12.41:657][603]LogSavePackage: Moving '../../../../../../Users/Oscar Elenius/Documents/Unreal Projects/S0010E-lab-env-oscele-1/oscele_1_Lab2_Task1/Saved/Minimal_Default_BuiltData11BEC408498D94FE1545E8BEC552F7E3.tmp' to '../../../../../../Users/Oscar Elenius/Documents/Unreal Projects/S0010E-lab-env-oscele-1/oscele_1_Lab2_Task1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.04-09.12.41:665][603]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.04-09.12.41:665][603]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.04-09.12.41:665][603]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.11.04-09.12.42:505][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.11.04-09.12.42:516][696]LogSavePackage: Moving '../../../../../../Users/Oscar Elenius/Documents/Unreal Projects/S0010E-lab-env-oscele-1/oscele_1_Lab2_Task1/Saved/Minimal_Default7AE04CF44B5F06F8B9EA9C859FABF306.tmp' to '../../../../../../Users/Oscar Elenius/Documents/Unreal Projects/S0010E-lab-env-oscele-1/oscele_1_Lab2_Task1/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.11.04-09.12.42:538][696]LogSavePackage: Moving '../../../../../../Users/Oscar Elenius/Documents/Unreal Projects/S0010E-lab-env-oscele-1/oscele_1_Lab2_Task1/Saved/Minimal_Default_BuiltData95CCDAC5499059B94A9185A5CC4DC64B.tmp' to '../../../../../../Users/Oscar Elenius/Documents/Unreal Projects/S0010E-lab-env-oscele-1/oscele_1_Lab2_Task1/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset'
+[2022.11.04-09.12.42:545][696]AssetCheck: New page: Asset Save: multiple assets
+[2022.11.04-09.12.42:545][696]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData
+[2022.11.04-09.12.42:546][696]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
