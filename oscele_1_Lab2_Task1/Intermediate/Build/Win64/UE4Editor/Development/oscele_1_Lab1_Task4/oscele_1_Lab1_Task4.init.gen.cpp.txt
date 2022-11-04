@@ -1,0 +1,3 @@
+C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab1_Task4\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab1_Task4\Definitions.oscele_1_Lab1_Task4.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
