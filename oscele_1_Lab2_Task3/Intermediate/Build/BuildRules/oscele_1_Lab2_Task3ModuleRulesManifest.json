@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Oscar Elenius\\Documents\\Unreal Projects\\S0010E-lab-env-oscele-1\\oscele_1_Lab2_Task3\\Source\\oscele_1_Lab2_Task3\\oscele_1_Lab2_Task3.Build.cs",
+		"C:\\Users\\Oscar Elenius\\Documents\\Unreal Projects\\S0010E-lab-env-oscele-1\\oscele_1_Lab2_Task3\\Source\\oscele_1_Lab2_Task3.Target.cs",
+		"C:\\Users\\Oscar Elenius\\Documents\\Unreal Projects\\S0010E-lab-env-oscele-1\\oscele_1_Lab2_Task3\\Source\\oscele_1_Lab2_Task3Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

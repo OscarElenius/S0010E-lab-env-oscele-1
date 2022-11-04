@@ -1,0 +1,7 @@
+C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\Definitions.oscele_1_Lab2_Task3.h
+C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Source\oscele_1_Lab2_Task3\oscele_1_Lab2_Task3GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Inc\oscele_1_Lab2_Task3\oscele_1_Lab2_Task3GameModeBase.generated.h

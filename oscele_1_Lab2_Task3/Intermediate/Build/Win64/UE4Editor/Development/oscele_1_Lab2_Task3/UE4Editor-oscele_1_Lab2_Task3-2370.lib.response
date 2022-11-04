@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-oscele_1_Lab2_Task3-2370.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\oscele_1_Lab2_Task3Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\TP_FlyingGameMode.cpp.obj"
+"C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\TP_FlyingPawn.cpp.obj"
+"C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\ThirdPersonCharacter.cpp.obj"
+"C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\oscele_1_Lab2_Task3.cpp.obj"
+"C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\oscele_1_Lab2_Task3GameModeBase.cpp.obj"
+"C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\oscele_1_Lab2_Task3.init.gen.cpp.obj"
+"C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\oscele_1_Lab2_Task3GameModeBase.gen.cpp.obj"
+"C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\ThirdPersonCharacter.gen.cpp.obj"
+"C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\TP_FlyingGameMode.gen.cpp.obj"
+"C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\TP_FlyingPawn.gen.cpp.obj"
+"C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\Default.rc2.res"
+/OUT:"C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\UE4Editor-oscele_1_Lab2_Task3-2370.lib"

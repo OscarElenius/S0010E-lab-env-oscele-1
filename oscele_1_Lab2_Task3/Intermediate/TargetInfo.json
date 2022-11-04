@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "oscele_1_Lab2_Task3",
+			"Path": "C:\\Users\\Oscar Elenius\\Documents\\Unreal Projects\\S0010E-lab-env-oscele-1\\oscele_1_Lab2_Task3\\Source\\oscele_1_Lab2_Task3.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "oscele_1_Lab2_Task3Editor",
+			"Path": "C:\\Users\\Oscar Elenius\\Documents\\Unreal Projects\\S0010E-lab-env-oscele-1\\oscele_1_Lab2_Task3\\Source\\oscele_1_Lab2_Task3Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

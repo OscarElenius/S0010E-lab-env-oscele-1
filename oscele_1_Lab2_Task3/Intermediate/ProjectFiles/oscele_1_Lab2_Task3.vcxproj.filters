@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\oscele_1_Lab2_Task3.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{73B34F5D-644F-4AAB-BFCA-FBDB735177CF}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\oscele_1_Lab2_Task3.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\oscele_1_Lab2_Task3Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{69B8BA9F-64F4-4FC2-973D-A68558C7332B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\oscele_1_Lab2_Task3">
+      <UniqueIdentifier>{9B35A144-9950-4C15-A35B-8FEC98ADC65D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\oscele_1_Lab2_Task3\oscele_1_Lab2_Task3.Build.cs">
+      <Filter>Source\oscele_1_Lab2_Task3</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\oscele_1_Lab2_Task3\oscele_1_Lab2_Task3.cpp">
+      <Filter>Source\oscele_1_Lab2_Task3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\oscele_1_Lab2_Task3\oscele_1_Lab2_Task3.h">
+      <Filter>Source\oscele_1_Lab2_Task3</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\oscele_1_Lab2_Task3\oscele_1_Lab2_Task3GameModeBase.cpp">
+      <Filter>Source\oscele_1_Lab2_Task3</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\oscele_1_Lab2_Task3\oscele_1_Lab2_Task3GameModeBase.h">
+      <Filter>Source\oscele_1_Lab2_Task3</Filter>
+    </ClInclude>
+    <Filter Include="Source\oscele_1_Lab2_Task3\TP_Flying">
+      <UniqueIdentifier>{0D10978C-8D33-4245-908C-EC1F8CAAD0FD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\oscele_1_Lab2_Task3\TP_Flying\TP_Flying.h">
+      <Filter>Source\oscele_1_Lab2_Task3\TP_Flying</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\oscele_1_Lab2_Task3\TP_Flying\TP_FlyingGameMode.cpp">
+      <Filter>Source\oscele_1_Lab2_Task3\TP_Flying</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\oscele_1_Lab2_Task3\TP_Flying\TP_FlyingGameMode.h">
+      <Filter>Source\oscele_1_Lab2_Task3\TP_Flying</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\oscele_1_Lab2_Task3\TP_Flying\TP_FlyingPawn.cpp">
+      <Filter>Source\oscele_1_Lab2_Task3\TP_Flying</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\oscele_1_Lab2_Task3\TP_Flying\TP_FlyingPawn.h">
+      <Filter>Source\oscele_1_Lab2_Task3\TP_Flying</Filter>
+    </ClInclude>
+    <Filter Include="Source\oscele_1_Lab2_Task3\TP_ThirdPerson">
+      <UniqueIdentifier>{28EFCB1A-97F2-4F79-9FAE-4AD9668CE97F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\oscele_1_Lab2_Task3\TP_ThirdPerson\ThirdPersonCharacter.cpp">
+      <Filter>Source\oscele_1_Lab2_Task3\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\oscele_1_Lab2_Task3\TP_ThirdPerson\ThirdPersonCharacter.h">
+      <Filter>Source\oscele_1_Lab2_Task3\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\oscele_1_Lab2_Task3\TP_ThirdPerson\TP_ThirdPerson.h">
+      <Filter>Source\oscele_1_Lab2_Task3\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\oscele_1_Lab2_Task3\TP_ThirdPerson\TP_ThirdPersonCharacter.cpp">
+      <Filter>Source\oscele_1_Lab2_Task3\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\oscele_1_Lab2_Task3\TP_ThirdPerson\TP_ThirdPersonCharacter.h">
+      <Filter>Source\oscele_1_Lab2_Task3\TP_ThirdPerson</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\oscele_1_Lab2_Task3\TP_ThirdPerson\TP_ThirdPersonGameMode.cpp">
+      <Filter>Source\oscele_1_Lab2_Task3\TP_ThirdPerson</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\oscele_1_Lab2_Task3\TP_ThirdPerson\TP_ThirdPersonGameMode.h">
+      <Filter>Source\oscele_1_Lab2_Task3\TP_ThirdPerson</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
