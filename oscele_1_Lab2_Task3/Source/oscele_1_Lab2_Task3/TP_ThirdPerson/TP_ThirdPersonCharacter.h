@@ -37,8 +37,12 @@ protected:
 	/** Called for forwards/backward input */
 	void MoveForward(float Value);
 
+	void MyMoveForward(float Value);
+
 	/** Called for side to side input */
 	void MoveRight(float Value);
+
+	void MyMoveRight(float Value);
 
 	/** 
 	 * Called via input to turn at a given rate. 

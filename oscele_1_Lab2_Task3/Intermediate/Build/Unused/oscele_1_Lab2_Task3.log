@@ -1,0 +1,12 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1).
+  Building oscele_1_Lab2_Task3Editor...
+  Using Visual Studio 2022 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 32 processes...
+    [1/4] TP_ThirdPersonCharacter.cpp
+    [2/4] UE4Editor-oscele_1_Lab2_Task3-0039.lib
+       Creating library C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\UE4Editor-oscele_1_Lab2_Task3-0039.lib and object C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\UE4Editor-oscele_1_Lab2_Task3-0039.exp
+    [3/4] UE4Editor-oscele_1_Lab2_Task3-0039.dll
+       Creating library C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\UE4Editor-oscele_1_Lab2_Task3-0039.suppressed.lib and object C:\Users\Oscar Elenius\Documents\Unreal Projects\S0010E-lab-env-oscele-1\oscele_1_Lab2_Task3\Intermediate\Build\Win64\UE4Editor\Development\oscele_1_Lab2_Task3\UE4Editor-oscele_1_Lab2_Task3-0039.suppressed.exp
+    [4/4] oscele_1_Lab2_Task3Editor.target
+  Total time in Parallel executor: 1,69 seconds
+  Total execution time: 2,27 seconds
